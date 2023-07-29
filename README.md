@@ -3,8 +3,8 @@
 
 | OJ | Username | Max Ratting | Solve |
 | -- | -------- | ----------- | ----- |
-| Codeforces | [mohid_mahin](https://codeforces.com/profile/mohid_mahin)| 135 | [656](https://github.com/iffatul-anon/CodeForces) |
-| CodeChef | [mahin15](https://www.codechef.com/users/mahin15) | 1006  | [5](https://github.com/iffatul-anon/CodeChef) |
+| Codeforces | [mohid_mahin](https://codeforces.com/profile/mohid_mahin)| 764 | [135](https://github.com/mohid_mahin/CodeForces) |
+| CodeChef | [mahin15](https://www.codechef.com/users/mahin15) | 1006  | [5](https://github.com/mahin15/CodeChef) |
 | LeetCode | [mohid_mahin](https://leetcode.com/mohid_mahin/) |  | 10 |
 | LightOJ | [mohid_mahin](https://lightoj.com/user/mahin) |  | 1 |
 | SPOJ | [mohid_mahin](https://www.spoj.com/myaccount/) |  | 0 |  
