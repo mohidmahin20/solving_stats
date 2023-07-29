@@ -13,6 +13,6 @@
 | HackerRank | [mohid_mahin](https://www.hackerrank.com/mohid_mahin15?hr_r=1) |  | 69 |
 | VJudge | [mohid_mahin](https://vjudge.net/user/mahin15) |  | 6 |
 | coding Ninjas | [https://www.codingninjas.com/studio/profile/2d2fe964-f919-49e3-88eb-517e71e3f8a4) |  |  |
-| Total |  |  | 915 |
+| Total |  |  | 311 |
 
 Last Updated: 1 July, 2023
