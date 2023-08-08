@@ -3,7 +3,7 @@
 
 | OJ | Username | Max Ratting | Solve |
 | -- | -------- | ----------- | ----- |
-| Codeforces | [mohid_mahin](https://codeforces.com/profile/mohid_mahin)| 764 | [139](https://github.com/mohid_mahin/CodeForces) |
+| Codeforces | [mohid_mahin](https://codeforces.com/profile/mohid_mahin)| 898 | [156](https://github.com/mohid_mahin/CodeForces) |
 | CodeChef | [mahin15](https://www.codechef.com/users/mahin15) | 1006  | [5](https://github.com/mahin15/CodeChef) |
 | LeetCode | [mohid_mahin](https://leetcode.com/mohid_mahin/) |  | 10 |
 | LightOJ | [mohid_mahin](https://lightoj.com/user/mahin) |  | 1 |
@@ -14,6 +14,6 @@
 | VJudge | [mohid_mahin](https://vjudge.net/user/mahin15) |  | 6 |
 | Toph | [mohid_mahin](https://toph.co/u/mahin.750132) |  | 4 |
 | coding Ninjas | [mohid_mahin](https://www.codingninjas.com/studio/profile/2d2fe964-f919-49e3-88eb-517e71e3f8a4) |  | 8 |
-| Total |  |  | 331 |
+| Total |  |  | 348 |
 
 Last Updated: 1 July, 2023
