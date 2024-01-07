@@ -15,6 +15,6 @@
 | CSES | [mahin](https://cses.fi/user/166568) |  | 5 |
 | Toph | [mohid_mahin](https://toph.co/u/mahin.750132) |  | 4 |
 | coding Ninjas | [mohid_mahin](https://www.codingninjas.com/studio/profile/2d2fe964-f919-49e3-88eb-517e71e3f8a4) |  | 8 |
-| Total |  |  | 584 |
+
 
 Last Updated: 1 July, 2023
