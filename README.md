@@ -3,7 +3,7 @@
 
 | OJ | Username | Max Ratting | Solve |
 | -- | -------- | ----------- | ----- |
-| Codeforces | [mohid_mahin](https://codeforces.com/profile/mohid_mahin)| 1207 | [384](https://github.com/mohid_mahin/CodeForces) |
+| Codeforces | [mohid_mahin](https://codeforces.com/profile/mohid_mahin)| 1092 | [384](https://github.com/mohid_mahin/CodeForces) |
 | LeetCode | [mohid_mahin](https://leetcode.com/mohid_mahin/) |  | 12 |
 | LightOJ | [mohid_mahin](https://lightoj.com/user/mahin) |  | 1 |
 | SPOJ | [mohid_mahin](https://www.spoj.com/myaccount/) |  | 1 |  
